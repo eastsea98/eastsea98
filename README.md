@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 👋 저는 김동해입니다. 항상 좋은 하루 보내세요 :smile: 
 
 <!--
 **eastsea98/eastsea98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
